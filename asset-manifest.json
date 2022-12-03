@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/psyc-project/static/css/main.ee1bc77e.css",
+    "main.js": "/psyc-project/static/js/main.5e7cc342.js",
+    "static/js/787.fda36e81.chunk.js": "/psyc-project/static/js/787.fda36e81.chunk.js",
+    "index.html": "/psyc-project/index.html",
+    "main.ee1bc77e.css.map": "/psyc-project/static/css/main.ee1bc77e.css.map",
+    "main.5e7cc342.js.map": "/psyc-project/static/js/main.5e7cc342.js.map",
+    "787.fda36e81.chunk.js.map": "/psyc-project/static/js/787.fda36e81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee1bc77e.css",
+    "static/js/main.5e7cc342.js"
+  ]
+}
